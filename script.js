@@ -37,4 +37,3 @@ function calcularIMC() {
   resultado.innerHTML =
     "<strong>IMC: " + imc.toFixed(2) + "</strong><br>" + classificacao;
 }
- 
